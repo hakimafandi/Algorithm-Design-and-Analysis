@@ -1,0 +1,15 @@
+6                               //num of vertices
+0 A                             //vertex indexes, vertex names
+1 B
+2 C
+3 D
+4 E
+5 F
+A B 2                         //edge vertex pairs, edge weights, in alphabetical order
+E F 3
+D F 4
+B C 5
+A E 7          
+21                           //total weight
+10s                          //example total time
+taken
